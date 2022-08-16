@@ -36,6 +36,7 @@ function validarDescripcionRegalo(descripcion){
     if(descripcion.length === 0){
         return "Tienes que escribir la descripción del regalo."
     }
+
     if(descripcion.length >= 100){
         return "Tiene que ser menor a 100 caracteres."
     }
