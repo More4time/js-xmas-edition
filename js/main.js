@@ -1,3 +1,14 @@
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< Updated upstream
+=======
+=======
+>>>>>>> 791138fc51deabbf244ae73c6564ca84fd7daf42
+=======
+>>>>>>> 791138fc51deabbf244ae73c6564ca84fd7daf42
+>>>>>>> Stashed changes
 
 
 const $form = document.querySelector("#carta-a-santa");
@@ -43,4 +54,16 @@ function validarDescripcionRegalo(descripcion){
 
     return " ";
 }
+<<<<<<< Updated upstream
 
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> 791138fc51deabbf244ae73c6564ca84fd7daf42
+=======
+
+>>>>>>> 791138fc51deabbf244ae73c6564ca84fd7daf42
+>>>>>>> Stashed changes
